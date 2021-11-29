@@ -24,7 +24,11 @@ class _HomePageState extends State<HomePage> {
           ],
         ),
       ),
-      body: RecipeCard(),
+      body: const RecipeCard(
+          title: 'My recipe',
+          rating: '4.3',
+          cookTime: '30 min',
+          thumbnailUrl: 'https://buff.ly/3E3suk9'),
     );
   }
 }
