@@ -2,6 +2,9 @@
 
 Simple recipe list app using the Flutter framework and API
 
-## Getting Started
+API: https://rapidapi.com/apidojo/api/yummly2/
 
-This project is a starting point for a Flutter application.
+## Improvements
+Use The Flutter Stream Class to display data snapshot
+https://api.flutter.dev/flutter/widgets/StreamBuilder-class.html
+
